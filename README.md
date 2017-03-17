@@ -2,7 +2,7 @@
 
 ![alt sample](./sample.gif "Sample")
 
-###Cell has:
+### Cell has:
 + animation duration
 + complition block
 + failure block
